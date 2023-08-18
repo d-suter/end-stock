@@ -14,7 +14,7 @@ A simple bot to fetch and display product details from the End website.
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ceodavee/end-stock-checker.git
+git clone https://github.com/ceodavee/end-stock.git
 cd <your-repo-directory>
 ```
 ---
